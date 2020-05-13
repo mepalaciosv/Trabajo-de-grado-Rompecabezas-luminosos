@@ -1,1 +1,1 @@
-# Trabajo-de-grado-Lights-Out
+# Trabajo de grado - Lights Out
