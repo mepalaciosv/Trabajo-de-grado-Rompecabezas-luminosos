@@ -1,6 +1,6 @@
 # Trabajo de grado - Rompecabezas luminosos
 
-Este repositorio contiene mi trabajo de grado de nombre '\textbf{Generalidades, modelos y aplicaciones de los Rompecabezas luminosos}'. Este fue desarrollado como requisito de grado del programa de Matemáticas (pregrado) de la Fundación Universitaria Konrad Lorenz. 
+Este repositorio contiene mi trabajo de grado de nombre 'Generalidades, modelos y aplicaciones de los Rompecabezas luminosos'. Este fue desarrollado como requisito de grado del programa de Matemáticas (pregrado) de la Fundación Universitaria Konrad Lorenz. 
 
 El repositorio contiene:
   1. El documento de tesis (PDF).
